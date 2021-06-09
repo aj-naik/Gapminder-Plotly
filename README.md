@@ -16,3 +16,6 @@ Generated following plots using Gapminder dataset:-
 
 Due to this project I learnt more about plotly express and creating interactive and animated charts and gained knowledge about different types of plots and their uses.
 Also gained new information from the plots generated and understood relationship between gdp per capita and life expectency.
+
+# Note 
+Dataset sourced directly from plotly and it is being fetched and loaded directly into the notebook.
